@@ -1,0 +1,13 @@
+{
+  "name": "riseup-skill",
+  "owner": {
+    "name": "Pavel Kaminsky"
+  },
+  "plugins": [
+    {
+      "name": "riseup-skill",
+      "source": "./",
+      "description": "Read RiseUp finances through your logged-in RiseUp tab via Claude in Chrome."
+    }
+  ]
+}

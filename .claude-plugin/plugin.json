@@ -1,0 +1,16 @@
+{
+  "name": "riseup-skill",
+  "version": "0.2.0",
+  "description": "Read RiseUp finances through your logged-in RiseUp tab via Claude in Chrome — no CLI, no cookie export.",
+  "author": {
+    "name": "Pavel Kaminsky"
+  },
+  "keywords": [
+    "riseup",
+    "finance",
+    "budget",
+    "claude-in-chrome"
+  ],
+  "repository": "https://github.com/kaminskypavel/riseup-skill",
+  "license": "MIT"
+}
